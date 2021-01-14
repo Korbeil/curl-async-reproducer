@@ -1,0 +1,6 @@
+{
+    "require": {
+	"ext-curl": "*",
+        "symfony/http-client": "^5.2"
+    }
+}
